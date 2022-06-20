@@ -1,0 +1,20 @@
+Month,,Starting Balance,,Repayment,,Interest Paid,,Principal Paid,,New Balance,,term,,interest_rate,
+,,,,,,,,,,,,,,,
+Mean,26.97058824,Mean,17562.87034,Mean,712.1341176,Mean,56.71512255,Mean,655.4189951,Mean,16907.45135,Mean,52.94117647,Mean,0.039602941
+Standard Error,0.802404486,Standard Error,555.6917469,Standard Error,12.25049886,Standard Error,2.018680771,Standard Error,12.14721052,Standard Error,552.9466425,Standard Error,0.458880226,Standard Error,0.000664096
+Median,26,Median,16262.23,Median,661.995,Median,50.64,Median,598.135,Median,15539.305,Median,60,Median,0.03745
+Mode,1,Mode,21600,Mode,687.23,Mode,70.2,Mode,#N/A,Mode,#N/A,Mode,60,Mode,0.039
+Standard Deviation,16.20777614,Standard Deviation,11224.42308,Standard Deviation,247.4479475,Standard Deviation,40.77535283,Standard Deviation,245.3616253,Standard Deviation,11168.97469,Standard Deviation,9.268926217,Standard Deviation,0.013414089
+Sample Variance,262.6920075,Sample Variance,125987673.6,Sample Variance,61230.48671,Sample Variance,1662.629399,Sample Variance,60202.32715,Sample Variance,124745995.7,Sample Variance,85.91299321,Sample Variance,0.000179938
+Kurtosis,-0.979820146,Kurtosis,-0.616512042,Kurtosis,0.28700248,Kurtosis,1.766034833,Kurtosis,0.381852575,Kurtosis,-0.631054365,Kurtosis,-0.798078569,Kurtosis,1.168589154
+Skewness,0.228188639,Skewness,0.493215089,Skewness,0.883439092,Skewness,1.219378847,Skewness,0.991290394,Skewness,0.479880191,Skewness,-0.859638196,Skewness,1.579373934
+Range,59,Range,44014.19,Range,892.71,Range,201.65,Range,959.81,Range,43721.4,Range,24,Range,0.0412
+Minimum,1,Minimum,395.41,Minimum,396.82,Minimum,1.28,Minimum,326.62,Minimum,-0.49,Minimum,36,Minimum,0.029
+Maximum,60,Maximum,44409.6,Maximum,1289.53,Maximum,202.93,Maximum,1286.43,Maximum,43720.91,Maximum,60,Maximum,0.0702
+Sum,11004,Sum,7165651.1,Sum,290550.72,Sum,23139.77,Sum,267410.95,Sum,6898240.15,Sum,21600,Sum,16.158
+Count,408,Count,408,Count,408,Count,408,Count,408,Count,408,Count,408,Count,408
+santhosh r
+santhos r
+lastline
+last line 2
+last line3
